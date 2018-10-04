@@ -369,5 +369,7 @@ BoldItalicFont=FreeSerifBoldItalic]
 % Macro: Hide.
 \newcommand{\Hide}[1]{}
 
+% Macro: Section Space
+\newcommand{\SectionSpace}{\vspace{0.15cm}}
 % End of class file.
 \endinput
