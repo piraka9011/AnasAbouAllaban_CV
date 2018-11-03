@@ -92,10 +92,10 @@ includefoot]{geometry}
 % {\color{MyDarkBlue}This text is dark blue}
 
 % Current date and time.
-\RequirePackage{datetime2}
+% \RequirePackage{datetime2}
 
 % Timestamp.
-\newcommand{\Timestamp}{{\DTMnow}}
+% \newcommand{\Timestamp}{{\DTMnow}}
 
 % Abbreviations for months.
 \newcommand{\LongMonth}[1]{%
